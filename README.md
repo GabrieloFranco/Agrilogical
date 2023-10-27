@@ -24,9 +24,24 @@ Em 2023, o **Innovation Challenge** se concentrou em aprimorar a experiência do
 
 - **Inferência:** Saiba como modelos e algoritmos foram desenvolvidos para prever tendências e riscos futuros com base nas informações disponíveis.
 
-## Contribuições
+## O time 
 
-Nós encorajamos a contribuição ativa para este repositório. Se você tiver sugestões, correções ou melhorias, sinta-se à vontade para abrir issues ou enviar pull requests.
+
+<!--Quando fizer aquele projeto em grupo ou receber alguma Pull Request como contribuição destaque-os. Uma coisa bem bacana aqui é misturar imagens com tabelas: -->
+
+
+
+
+| [<img src="https://avatars.githubusercontent.com/u/89610183?s=400&u=e0a910f1089b47ec21e23fb01ea1d32d12e7e288&v=4" width=115  > <br> <a target="_blank" href="https://www.linkedin.com/in/gabrielofranco" alt="LinkedIn" > <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <br> <sub> </sub>](https://github.com/GabrieloFranco) |  [<img src="https://aatars.githubusercontent.com/u/142240208?v=4" width=115 > <br><a target="_blank" href="https://www.linkedin.com/in/kelvinmathias/" alt="LinkedIn" > <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <br> <sub> Kelvin Mathias </sub>](https://github.com/) | [<img src="https://avatars.githubusecontent.com/u/142240746?v=4" width=115 > <br> <a target="_blank" href="https://www.linkedin.com/in/gabriel-barros-69375616a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" alt="LinkedIn" > <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <br> <sub> Gabriel Barros </sub>](https://github.com/) | [<img src="https://avatars.githubusercontnt.com/u/92280255?v=4" width=115 > <br><a target="_blank" href="https://www.linkedin.com/in/giuliano-sambianchi-da-silva-8302aa108/" alt="LinkedIn" > <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <br> <sub> Giuliano Sambiache </sub>](https://github.com/) |
+| :---: | :---: | :---: | :---: |
+| Gabriel Franco | Kelvin Mathias | Gabriel Barros | Giuliano Sambiache | 
+
+## conheça o time no LinkedIn
+
+
+
+
+
 
 ## Sobre as Empresas Parceiras
 
