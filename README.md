@@ -57,6 +57,8 @@ Este é o repositório onde você pode encontrar os detalhes, documentação e r
 
 ---
 
-**Links para as Empresas Parceiras**:
-- [Minsait](https://www.minsait.com/pt)
-- [Indra](https://www.indracompany.com/pt-br/)
+## Conheça as Empresas Parceiras:
+|  <a target="_blank" href="https://www.minsait.com/pt" alt="Minsait" > <img src="https://aboutfarma.com.br/images/materias/2019/07/1234670476_minsalt_logo_2019_450.png" width=115 > </a> <br>  | <a target="_blank" href="https://www.indracompany.com/pt-br/" alt="Indra">  <img src="https://123empregos.com.br/wp-content/uploads/2023/01/Indra.jpg" width=115> </a> <br>  | 
+| :---: | :---: |
+
+
