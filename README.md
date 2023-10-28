@@ -36,12 +36,6 @@ Em 2023, o **Innovation Challenge** se concentrou em aprimorar a experiência do
 | :---: | :---: | :---: | :---: |
 | Gabriel Franco | Kelvin Mathias | Gabriel Barros | Giuliano Sambiache | 
 
-## conheça o time no LinkedIn
-
-
-
-
-
 
 ## Sobre as Empresas Parceiras
 
